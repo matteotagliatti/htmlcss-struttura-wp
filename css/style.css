@@ -45,9 +45,6 @@ footer {
     width: 100%;
 }
 
-.h500 {
-    height: 500px;
-}
 
 .content aside {
     width: 25%;
@@ -57,6 +54,10 @@ footer {
 .content .center {
     width: calc(50% - 24px);
     float: left;
+}
+
+.h500 {
+    height: 500px;
 }
 
 .mb-8 {
