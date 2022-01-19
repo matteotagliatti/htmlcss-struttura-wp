@@ -23,7 +23,9 @@ footer {
 /* Classes */
 
 .container {
-    max-width: 60%;
+    max-width: 1000px;
+    min-width: 500px;
+    width: 60%;
     margin: 20px auto;
 }
 
